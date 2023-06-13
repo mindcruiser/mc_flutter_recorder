@@ -1,6 +1,6 @@
 name: mc_flutter_recorder
 description: A flutter plugin for recording audio. Not only does it support basic recording functions, but it also supports audio interruption policy control and other exception handling.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/mindcruiser/mc_flutter_recorder
 
 environment:
